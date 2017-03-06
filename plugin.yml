@@ -1,0 +1,13 @@
+name: Prank
+version: 1.0
+main: me.tvoh19.prankpl.Prank
+description: Prank your friends with this plugin!
+
+commands:
+    fakeop:
+        usage: /<command>
+        description: Make your friends OP (PRANK)
+    fakejoin:
+        usage: /<command>
+        description: Join the server fake!
+    
